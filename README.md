@@ -12,12 +12,15 @@ Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en C
 
 ## Contenido ℹ️
 * 👨‍💼[Información personal](#información-personal)
+* 🔧[Habilidades Técnicas](#habilidades-técnicas)
 * 📁[Proyectos](#proyectos)
 * 👨‍💻[Intereses](#intereses)
 * 👨‍💻[Contatos](#contactos)
 ## Información personal
-<p align="center"> <strong>👨‍💻 Estudiante de Ingeniería en Computación</strong> <br> 📍 Guayaquil, Ecuador | 🎂 <strong>22 de mayo de 2002</strong> <br> 📧 cjbarrag@espol.edu.ec | 📱 0985373919 </p>
-
+<p> <strong>👨‍💻 Estudiante de Ingeniería en Computación</strong> <br> 📍 Guayaquil, Ecuador <br>🎂 <strong>22 de mayo de 2002</strong> <br> 📧 cjbarrag@espol.edu.ec <br>📱 0985373919 </p>
+## Habilidades Técnicas
+* Lenguajes de programación: Java, C, HTML, Python
+* Herramientas: Git, Microsoft Office, LaTeX, Figma
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
