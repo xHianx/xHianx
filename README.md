@@ -15,7 +15,7 @@ Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en C
 * 📁[Proyectos](#proyectos)
 * 👨‍💻[Intereses](#intereses)
 * 👨‍💻[Contatos](#contactos)
-## 👨‍💼 Información personal
+## Información personal
 <p align="center"> <strong>👨‍💻 Estudiante de Ingeniería en Computación</strong> <br> 📍 Guayaquil, Ecuador | 🎂 <strong>22 de mayo de 2002</strong> <br> 📧 cjbarrag@espol.edu.ec | 📱 0985373919 </p>
 
 ## Proyectos
