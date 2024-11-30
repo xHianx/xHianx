@@ -13,19 +13,43 @@ Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en C
 ## Contenido ℹ️
 * 👨‍💼[Información personal](#información-personal)
 * 🔧[Habilidades Técnicas](#habilidades-técnicas)
+* 🌟[Habilidades Personales](#habilidades-personales)
+* 🏫[Educación](#educación)
+* 💼[Experiencia Profesional](#experiencia-profesional)
 * 📁[Proyectos](#proyectos)
-* 👨‍💻[Intereses](#intereses)
 * 👨‍💻[Contatos](#contactos)
+  
 ## Información personal
 <p> <strong>👨‍💻 Estudiante de Ingeniería en Computación</strong> <br> 📍 Guayaquil, Ecuador <br>🎂 <strong>22 de mayo de 2002</strong> <br> 📧 cjbarrag@espol.edu.ec <br>📱 0985373919 </p>
+
 ## Habilidades Técnicas
 * Lenguajes de programación: Java, C, HTML, Python
 * Herramientas: Git, Microsoft Office, LaTeX, Figma
-## Proyectos
-* [Lista de tus proyectos]
-## Intereses
-* [Diseño y normalización de bases de datos]
-* [SQL y NoSQL]
-* [Big Data y análisis de datos]
-## Contactos
 
+## Habilidades Personales
+* Autodidacta
+* Trabajo en equipo
+* Liderazgo
+* Pensamiento creativo
+
+## Educación
+* 🎓<strong>Colegio Militar Teniente Hugo Ortiz Garcés:</strong> Graduado del Bachillerato Internacional, con valores y disciplina como pilares fundamentales.
+* 🎓<strong>Escuela Superior Politécnica del Litoral (ESPOL):</strong> Estudiante de Ingeniería en Computación.
+
+## Experiencia Profesional
+* <strong>Ayudante de Gestión - FIEC (ESPOL):</strong> Administración de laboratorios, mantenimiento de equipos y resolución de problemas técnicos.
+
+## Proyectos
+* 🚗 Proyecto Carros: https://github.com/xHianx/Grupo_07.git
+* 🐢 Proyecto Tortuneitor: https://github.com/edu-gab/Tortuneitor.git
+* 🦾 Proyecto Chacales: https://github.com/xHianx/Organizacion.git
+   
+## Contactos
+* 📧 Correo: cjbarrag@espol.edu.ec
+* 🌐 GitHub: [https://github.com/xhianx](https://github.com/xhianx)
+* 🌐 LinkedIn: [https://www.linkedin.com/in/cristhian-barragan](https://www.linkedin.com/in/cristhian-barrag%C3%A1n-guillin-34b942217/)
+
+---
+
+✨ <strong>¡Gracias por visitar mi perfil!</strong><br>
+Explora mis proyectos y no dudes en ponerte en contacto. Estoy abierto a colaboraciones y nuevas oportunidades. 😊
