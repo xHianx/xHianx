@@ -16,7 +16,7 @@ Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en C
 * 🌟[Habilidades Personales](#habilidades-personales)
 * 🏫[Educación](#educación)
 * 💼[Experiencia Profesional](#experiencia-profesional)
-* 📁[Proyectos](#proyectos)
+* 📁[Proyectos Destacados](#proyectos-destacados)
 * 👨‍💻[Contatos](#contactos)
   
 ## Información personal
@@ -39,7 +39,7 @@ Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en C
 ## Experiencia Profesional
 * <strong>Ayudante de Gestión - FIEC (ESPOL):</strong> Administración de laboratorios, mantenimiento de equipos y resolución de problemas técnicos.
 
-## Proyectos
+## Proyectos Destacados
 * 🚗 Proyecto Carros: https://github.com/xHianx/Grupo_07.git
 * 🐢 Proyecto Tortuneitor: https://github.com/edu-gab/Tortuneitor.git
 * 🦾 Proyecto Chacales: https://github.com/xHianx/Organizacion.git
