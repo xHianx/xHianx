@@ -8,7 +8,7 @@
 
 <p align="justify">
 ¡Bienvenido a mi repositorio personal! 🎉  
-Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en Computación</strong> en la <strong>Escuela Superior Politécnica del Litoral (ESPOL)</strong>, apasionado por la tecnología y el desarrollo de soluciones innovadoras. Mi enfoque principal es el desarrollo de soluciones tecnológicas innovadoras y efectivas que aporten valor a las personas y organizaciones. Disfruto trabajando en equipo y afrontando retos complejos, que me permitan aprender y crecer constantemente. Con un interés especial en el desarrollo web y la optimización de procesos, aspiro a contribuir de manera significativa en proyectos que transformen y mejoren el entorno digital.
+Soy <strong>Cristhian Barragán</strong>, estudiante de <strong>Ingeniería en Computación</strong> en la <strong>Escuela Superior Politécnica del Litoral (ESPOL)</strong>, apasionado por la tecnología y el desarrollo de soluciones innovadoras. Mi enfoque principal es el desarrollo de soluciones tecnológicas innovadoras y efectivas que aporten valor a las personas y organizaciones. Disfruto trabajando en equipo y afrontando retos complejos, que me permitan aprender y crecer constantemente. Con un interés especial en el desarrollo web y la optimización de procesos, aspiro a contribuir de manera significativa en proyectos que transformen y mejoren el entorno digital.</p>
 
 ## Contenido ℹ️
 * 👨‍💼[Información personal](#información-personal)
